@@ -1,0 +1,4 @@
+#Vumba Orain
+#12 March 2025
+#configuration file for Big Wig Electronics
+timeout=45
